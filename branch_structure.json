@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1035-fix-navbar-pass-show-toast-show-so-navbar",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1035-fix-navbar-pass-show-toast-show-so-navbar": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1035-fix-navbar-pass-show-toast-show-so-navbar",
+    "origin"
+  ]
+}
